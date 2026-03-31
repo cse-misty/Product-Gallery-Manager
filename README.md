@@ -2,7 +2,6 @@ Project Setup: Product Gallery Manager
 
 1. Create Project & Database
 ---------------------------
-mkdir product_gallery_manager
 cd product_gallery_manager
 
 # MySQL
