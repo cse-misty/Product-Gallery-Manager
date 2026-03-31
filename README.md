@@ -1,3 +1,12 @@
+# 🚀 Technology Stack
+
+| Configuration     | Version                              |
+| ----------------- | -------------------------------------|
+| Framework         | Laravel ^12.0                        |
+| PHP               | 8.3                                  |
+| Database          | MySQL                                |
+| Authentication    |  laravel/breeze
+
 Project Setup: Product Gallery Manager
 
 1. Create Project & Database
